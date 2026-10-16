@@ -1,0 +1,3 @@
+interface:
+  display_name: "Prompt Optimizer"
+  short_description: "Wandelt Anfragen in optimierte Prompts für andere KI-Chats"
